@@ -16,7 +16,7 @@
 
 ## Trade Chart
 
-![Trade Chart](insert_chart_image_url_here)
+![Trade Chart](https://media.istockphoto.com/photos/trade-cryptocurrency-market-and-investment-in-bitcoin-dogecoin-eth-picture-id1317560211?b=1&k=20&m=1317560211&s=170667a&w=0&h=5E0qfnBMTTPFI2yljigNVrTbVSgdkshlqUWpLA1rQkI=)
 
 ## Trade Analysis
 
