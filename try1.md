@@ -9,7 +9,7 @@
 
 ## Trade Chart
 
-![Trade Chart](![Alt text](image.png))
+<img src ="image.png" width="400">
 
 ## Trade Analysis
 
