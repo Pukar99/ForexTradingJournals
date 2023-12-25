@@ -1,6 +1,6 @@
 <p>for directories<p>
 mkdir -p 2024/January  //copy this to the terminals
-
+ 
 
 <br>
 <p>for files <p>
