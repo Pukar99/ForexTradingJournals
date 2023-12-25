@@ -23,5 +23,5 @@ Welcome to my trading journal repository! This repository serves as a central hu
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Pukar99/trading-journal.git
+git clone https://github.com/Pukar99/ForexTradingJournals.git
 cd trading-journal
