@@ -4,4 +4,13 @@ mkdir -p 2024/January  //copy this to the terminals
 
 <br>
 <p>for files <p>
-touch 2024/January/journal_entry_01.md  // copy this to the terminal
+touch 2024/January/Jan1Trade1.md  // copy this to the terminal
+or
+
+echo. > 2024\January\Jan1Trade1.md
+
+or
+
+'' | Out-File -FilePath "2024\January\Jan1Trade1.md"
+
+
