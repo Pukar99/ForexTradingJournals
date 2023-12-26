@@ -1,0 +1,5 @@
+                                                  Strategy      Instrument Position Size Risk-Reward Ratio Entry Price Confidence Level      Result             Profit/Loss
+count                                                   32              32            32                32          32               32          32                      32
+unique                                                   6               1             6                 5          12                2           2                      13
+top     📈 Trading Journal Entry - XAU/USD (Moving Average)  XAU/USD (Gold)      1.5 Lots               1:3       $1985             High  Successful  $90 (3 times the risk)
+freq                                                    11              32            10                17           8               21          25                      13
