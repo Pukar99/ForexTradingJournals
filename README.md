@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my trading journal repository! This repository serves as a central hub for documenting my trading activities, strategies, and analyses.
+Welcome to my trading journal repository! This repository serves as a central hub for documenting my trading activities, strategies, and analyses.The main goal for this repository is to share my journal so you can inspire or you can do analysis there
 
 ## Directory Structure
 
